@@ -1,0 +1,7 @@
+#reference "../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__5__POTATO__GDV-MINI.slangp"
+HSM_FLIP_VIEWPORT_VERTICAL = "1.000000"
+HSM_ASPECT_RATIO_MODE = "1.000000"
+HSM_ASPECT_RATIO_EXPLICIT = "1.770000"
+HSM_NON_INTEGER_SCALE = "67.570000"
+HSM_TUBE_BLACK_EDGE_THICKNESS = "0.000000"
+BackgroundImage = "../../../Graphics/_Potato/CannonBall/CannonBall_Wood.png"

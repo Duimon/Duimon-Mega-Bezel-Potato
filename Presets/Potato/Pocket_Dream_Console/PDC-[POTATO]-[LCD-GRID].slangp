@@ -1,0 +1,6 @@
+#reference "../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__5__POTATO__LCD-GRID.slangp"
+HSM_ASPECT_RATIO_MODE = "2.000000"
+HSM_NON_INTEGER_SCALE = "58.570267"
+HSM_SCREEN_POSITION_Y = "9.000000"
+HSM_CURVATURE_MODE = "0.000000"
+BackgroundImage = "../../../Graphics/_Potato/Pocket_Dream_Console/PDC.png"

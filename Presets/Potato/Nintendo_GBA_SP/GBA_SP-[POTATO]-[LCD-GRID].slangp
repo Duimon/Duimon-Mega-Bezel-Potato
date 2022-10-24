@@ -1,0 +1,7 @@
+#reference "../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__5__POTATO__LCD-GRID.slangp"
+HSM_ASPECT_RATIO_MODE = "3.000000"
+HSM_NON_INTEGER_SCALE = "50.370235"
+HSM_SCREEN_POSITION_Y = "104.000000"
+HSM_CURVATURE_MODE = "0.000000"
+HSM_POTATO_SHOW_SCREEN_OVER_BG = "0.000000"
+BackgroundImage = "../../../Graphics/_Potato/Nintendo_GBA_SP/GBA_SP.png"

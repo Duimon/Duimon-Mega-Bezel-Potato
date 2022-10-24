@@ -1,0 +1,7 @@
+#reference "../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__5__POTATO__LCD-GRID.slangp"
+HSM_ASPECT_RATIO_MODE = "1.000000"
+HSM_ASPECT_RATIO_EXPLICIT = "1.050000"
+HSM_NON_INTEGER_SCALE = "46.970222"
+HSM_SCREEN_POSITION_Y = "83.000000"
+HSM_CURVATURE_MODE = "0.000000"
+BackgroundImage = "../../../Graphics/_Potato/Bit_Corp_Gamate/Gamate_Alt_Night.png"

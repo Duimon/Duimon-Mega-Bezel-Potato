@@ -1,0 +1,6 @@
+#reference "../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__5__POTATO__LCD-GRID.slangp"
+HSM_ASPECT_RATIO_MODE = "4.000000"
+HSM_NON_INTEGER_SCALE = "53.370247"
+HSM_CURVATURE_MODE = "0.000000"
+HSM_POTATO_SHOW_SCREEN_OVER_BG = "0.000000"
+BackgroundImage = "../../../Graphics/_Potato/TIC-80/TIC80_Night.png"

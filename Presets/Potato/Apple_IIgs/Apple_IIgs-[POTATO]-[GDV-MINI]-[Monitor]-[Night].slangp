@@ -1,0 +1,8 @@
+#reference "../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__5__POTATO__GDV-MINI.slangp"
+HSM_ASPECT_RATIO_ORIENTATION = "1.000000"
+HSM_ASPECT_RATIO_MODE = "2.000000"
+HSM_NON_INTEGER_SCALE = "64.770279"
+HSM_SCREEN_POSITION_Y = "47.000000"
+HSM_CURVATURE_2D_SCALE_LONG_AXIS = "60.000000"
+HSM_CURVATURE_2D_SCALE_SHORT_AXIS = "60.000000"
+BackgroundImage = "../../../Graphics/_Potato/Apple_IIgs/Apple_IIgs_Monitor_Night.png"

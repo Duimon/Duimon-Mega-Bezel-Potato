@@ -1,0 +1,7 @@
+#reference "../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__5__POTATO__GDV-MINI.slangp"
+HSM_ASPECT_RATIO_ORIENTATION = "1.000000"
+HSM_ASPECT_RATIO_MODE = "2.000000"
+HSM_NON_INTEGER_SCALE = "71.97"
+HSM_SCREEN_POSITION_Y = "61.000000"
+HSM_POTATO_SHOW_SCREEN_OVER_BG = "0.000000"
+BackgroundImage = "../../../Graphics/_Potato/Atari_Jaguar/Jaguar_P2.png"

@@ -1,0 +1,8 @@
+#reference "../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__5__POTATO__LCD-GRID.slangp"
+HSM_ASPECT_RATIO_MODE = "1.000000"
+HSM_ASPECT_RATIO_EXPLICIT = "1.254003"
+HSM_NON_INTEGER_SCALE = "52.770245"
+HSM_SCREEN_POSITION_Y = "164.000000"
+HSM_CURVATURE_MODE = "0.000000"
+HSM_POTATO_SHOW_SCREEN_OVER_BG = "0.000000"
+BackgroundImage = "../../../Graphics/_Potato/LowRes_NX/LowRes_NX_Night.png"

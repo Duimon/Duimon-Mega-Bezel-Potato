@@ -1,0 +1,5 @@
+#reference "../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__5__POTATO__GDV-MINI.slangp"
+HSM_ASPECT_RATIO_MODE = "2.000000"
+HSM_NON_INTEGER_SCALE = "89.769897"
+HSM_TUBE_BLACK_EDGE_THICKNESS = "0.000000"
+BackgroundImage = "../../../Graphics/_Potato/ECWolf/ECWolf.png"

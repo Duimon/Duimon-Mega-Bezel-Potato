@@ -1,0 +1,8 @@
+#reference "../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__5__POTATO__LCD-GRID.slangp"
+HSM_ASPECT_RATIO_MODE = "5.000000"
+HSM_NON_INTEGER_SCALE = "51.170238"
+HSM_SCREEN_POSITION_X = "77.000000"
+HSM_SCREEN_POSITION_Y = "64.000000"
+HSM_CURVATURE_MODE = "0.000000"
+HSM_POTATO_SHOW_SCREEN_OVER_BG = "0.000000"
+BackgroundImage = "../../../Graphics/_Potato/Bandai_WonderSwan_Color/WSC_Night.png"

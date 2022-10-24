@@ -1,0 +1,8 @@
+#reference "../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__5__POTATO__LCD-GRID.slangp"
+HSM_ASPECT_RATIO_ORIENTATION = "1.000000"
+HSM_ASPECT_RATIO_MODE = "2.000000"
+HSM_INT_SCALE_MODE = "0.000000"
+HSM_NON_INTEGER_SCALE = "55.570000"
+HSM_SCREEN_POSITION_Y = "7.000000"
+HSM_CURVATURE_MODE = "0.000000"
+BackgroundImage = "../../../Graphics/_Potato/Gamepark_GP32/GP32.png"
