@@ -1,13 +1,12 @@
-### **Basic Presets.**
+### **Potato Presets.**
 
-Basic presets use the "MBZ__5__POTATO__GDV-MINI.slangp" or the "MBZ__5__POTATO__LCD-GRID.slangp" base preset. These presets share a subset of features with the Standard base presets and require a more modest PC. They are essentially overlays with a reflection.
+Potato presets use the "MBZ__5__POTATO__GDV.slangp" or the "MMBZ__5__POTATO__LCD-GRID.slangp" base preset. These presets have share a much smaller feature set and have only a single image layer.
 
-The "MBZ__4" designation places them lowest on the list for PC requirements.
+The "MBZ__5" designation places them lowest on the list for PC requirements.
 
-MBZ__1__ADV__GDV.slangp <------ Highest PC requirements
-MBZ__1__ADV__LCD-GRID.slangp
-MBZ__2__STD__GDV.slangp
-MBZ__2__STD__LCD-GRID.slangp
-MBZ__3__BASIC-REFLECT__GDV.slangp
-MBZ__5__POTATO__GDV-MINI.slangp
-MBZ__5__POTATO__LCD-GRID.slangp
+MBZ__0__SMOOTH<------ Highest PC requirements
+MBZ__1__ADV
+MBZ__2__ADV
+MBZ__3__STD
+MBZ__4__STD
+MBZ__5__POTATO
