@@ -1,0 +1,20 @@
+// DUIMON MEGA BEZEL GRAPHICS AND PRESETS | https://duimon.github.io/Gallery-Guides/ | duimonmb@gmail.com
+// SOME RIGHTS RESERVED - RELEASED UNDER CC BY NC ND LICENSE https://creativecommons.org/licenses/by-nc-nd/4.0/deed
+// ----------------------------------------------------------------------------------------------------------------
+
+// CRT PARAMETERS
+// Parameters specific to the screen including Guest, Grade, Gel, Diffuse etc. While diffuse parameters are here
+// the iamge paths are in the layers params with the other images.
+// ----------------------------------------------------------------------------------------------------------------
+
+HSM_DOWNSAMPLE_BLUR_SCANLINE_DIR = "30.000000"
+HSM_DOWNSAMPLE_BLUR_OPPOSITE_DIR = "30.000000"
+HSM_MONOCHROME_MODE = "3.000000"
+HSM_MONOCHROME_BRIGHTNESS = "71.000000"
+HSM_MONOCHROME_GAMMA = "1.000000"
+HSM_MONOCHROME_HUE_OFFSET = "-25.000000"
+HSM_MONOCHROME_SATURATION = "79.000000"
+
+
+// Reflection properties are normally placed in the bezel params.
+// The global amount here is to help cosolidate this refernce.

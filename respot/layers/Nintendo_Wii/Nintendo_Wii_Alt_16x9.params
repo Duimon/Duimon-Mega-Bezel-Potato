@@ -1,0 +1,11 @@
+// DUIMON MEGA BEZEL GRAPHICS AND PRESETS | https://duimon.github.io/Gallery-Guides/ | duimonmb@gmail.com
+// SOME RIGHTS RESERVED - RELEASED UNDER CC BY NC ND LICENSE https://creativecommons.org/licenses/by-nc-nd/4.0/deed
+// ----------------------------------------------------------------------------------------------------------------
+
+// IMAGE LAYER PARAMETERS :: POTATO
+// Parameters specific to the image layers, potato preset have only one layer.
+// ----------------------------------------------------------------------------------------------------------------
+
+// IMAGE PATHS
+// ----------------------------------------------------------------------------------------------------------------
+BackgroundImage = "../../../Graphics/_Potato/Nintendo_Wii/Wii_Alt_16x9.png"
