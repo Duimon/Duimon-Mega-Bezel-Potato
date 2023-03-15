@@ -30,13 +30,13 @@
 #reference "../../../respot/bezel/SEGA_Naomi/SEGA_Naomi.params"
 
 // DEVICE :: SCALING
-#reference "../../../respot/scale/SEGA_Naomi/SEGA_Naomi_Vertical.params"
+#reference "../../../respot/scale/SEGA_Naomi/$CORE-REQ-ROT$.params"
 
 // DEVICE :: CRT
 
 // IMAGE LAYERS
 // ----------------------------------------------------------------------------------------------------------------
-#reference "../../../respot/layers/SEGA_Naomi/SEGA_Naomi_Vertical_night.params"
+#reference "../../../respot/layers/SEGA_Naomi/$CORE-REQ-ROT$_night.params"
 
 // SHADER OVERRIDES | Place *.params references to Guest derivatives here. 
 // (Make sure you are using ADV__GDV, STD__GDV, or POTATO__GDV base presets for variations on the Guest shader.)

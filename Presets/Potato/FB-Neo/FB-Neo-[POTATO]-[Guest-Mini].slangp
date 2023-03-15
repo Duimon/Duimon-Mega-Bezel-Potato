@@ -31,13 +31,13 @@
 
 // DEVICE :: SCALING
 #reference "../../../respot/scale/bezel.params"
-#reference "../../../respot/scale/FB-Neo/bezel.params"
+#reference "../../../respot/scale/FB-Neo/$CORE-REQ-ROT$.params"
 
 // DEVICE :: CRT
 
 // IMAGE LAYERS
 // ----------------------------------------------------------------------------------------------------------------
-#reference "../../../respot/layers/FB-Neo/bezel.params"
+#reference "../../../respot/layers/FB-Neo/$CORE-REQ-ROT$.params"
 
 // SHADER OVERRIDES | Place *.params references to Guest derivatives here. 
 // (Make sure you are using ADV__GDV, STD__GDV, or POTATO__GDV base presets for variations on the Guest shader.)

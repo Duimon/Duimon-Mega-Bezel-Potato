@@ -18,13 +18,13 @@
 #reference "../../../respot/bezel/Atari_Lynx/Atari_Lynx.params"
 
 // DEVICE :: SCALING
-#reference "../../../respot/scale/Atari_Lynx/Atari_Lynx.params"
+#reference "../../../respot/scale/Atari_Lynx/$CORE-REQ-ROT$.params"
 
 // DEVICE :: CRT
 
 // IMAGE LAYERS
 // ----------------------------------------------------------------------------------------------------------------
-#reference "../../../respot/layers/Atari_Lynx/Atari_Lynx_night.params"
+#reference "../../../respot/layers/Atari_Lynx/$CORE-REQ-ROT$_night.params"
 
 // HSV :: Hue, Saturation, and Value parameters
 // ----------------------------------------------------------------------------------------------------------------

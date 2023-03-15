@@ -27,16 +27,16 @@
 // ----------------------------------------------------------------------------------------------------------------
 
 // DEVICE :: BASE
-#reference "../../../respot/bezel/FB-Neo/CAB_No_Tilt.params"
+#reference "../../../respot/bezel/bezel.params"
 
 // DEVICE :: SCALING
-#reference "../../../respot/scale/FB-Neo/CAB_No_Tilt.params"
+#reference "../../../respot/scale/MAME/$CORE-REQ-ROT$.params"
 
 // DEVICE :: CRT
 
 // IMAGE LAYERS
 // ----------------------------------------------------------------------------------------------------------------
-#reference "../../../respot/layers/FB-Neo/CAB_No_Tilt.params"
+#reference "../../../respot/layers/MAME/$CORE-REQ-ROT$.params"
 
 // SHADER OVERRIDES | Place *.params references to Guest derivatives here. 
 // (Make sure you are using ADV__GDV, STD__GDV, or POTATO__GDV base presets for variations on the Guest shader.)

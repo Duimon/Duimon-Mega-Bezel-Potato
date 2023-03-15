@@ -8,4 +8,5 @@
 
 // IMAGE PATHS
 // ----------------------------------------------------------------------------------------------------------------
-BackgroundImage = "../../../Graphics/_Potato/SEGA_Naomi/Naomi.png"
+BackgroundImage = "../../../Graphics/_Potato/MAME/MAME_CAB.png"
+BackgroundVertImage = "../../../Graphics/_Potato/MAME/MAME_CAB_Vertical.png"

@@ -9,7 +9,7 @@
 // Edit the target file in the following reference to globally define the base preset.
 // ----------------------------------------------------------------------------------------------------------------
 
-#reference "../../../zzz_global_params_pot/Base_Shader/POT.slangp"
+//#reference "../../../zzz_global_params_pot/Base_Shader/POT.slangp"
 
 // SHADER :: CONNECTOR :: LOCAL OVERRIDES | Interface to specific base presets.
 // Comment out the top reference line and uncomment the following reference line to locally define the base preset.
@@ -27,16 +27,16 @@
 // ----------------------------------------------------------------------------------------------------------------
 
 // DEVICE :: BASE
-#reference "../../../respot/bezel/SEGA_Naomi/SEGA_Naomi.params"
+#reference "../../../respot/bezel/MAME/CAB_No_Tilt.params"
 
 // DEVICE :: SCALING
-#reference "../../../respot/scale/SEGA_Naomi/SEGA_Naomi_Vertical.params"
+#reference "../../../respot/scale/MAME/CAB_No_Tilt_$CORE-REQ-ROT$.params"
 
 // DEVICE :: CRT
 
 // IMAGE LAYERS
 // ----------------------------------------------------------------------------------------------------------------
-#reference "../../../respot/layers/SEGA_Naomi/SEGA_Naomi_Vertical.params"
+#reference "../../../respot/layers/MAME/CAB_No_Tilt_$CORE-REQ-ROT$.params"
 
 // SHADER OVERRIDES | Place *.params references to Guest derivatives here. 
 // (Make sure you are using ADV__GDV, STD__GDV, or POTATO__GDV base presets for variations on the Guest shader.)
