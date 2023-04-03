@@ -38,7 +38,7 @@
 
 // IMAGE LAYERS
 // ----------------------------------------------------------------------------------------------------------------
-#reference "../../../respot/layers/GCE_Vectrex/Bedlam (USA, Europe)_night.params"
+#reference "../../../respot/layers/GCE_Vectrex/GCE_Vectrex.params"
 
 // SHADER OVERRIDES | Place *.params references to Guest derivatives here. 
 // (Make sure you are using ADV__GDV, STD__GDV, or POTATO__GDV base presets for variations on the Guest shader.)

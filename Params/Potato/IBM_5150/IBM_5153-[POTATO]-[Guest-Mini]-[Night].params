@@ -27,17 +27,17 @@
 // ----------------------------------------------------------------------------------------------------------------
 
 // DEVICE :: BASE
-#reference "../../../respot/bezel/DOSBox_5150/5150.params"
+#reference "../../../respot/bezel/IBM_5150/5150.params"
 
 // DEVICE :: SCALING
-#reference "../../../respot/scale/DOSBox_5150/5150.params"
+#reference "../../../respot/scale/IBM_5150/5150.params"
 
 // DEVICE :: CRT
-#reference "../../../respot/crt/DOSBox_5150/5153.params"
+#reference "../../../respot/crt/IBM_5150/5153.params"
 
 // IMAGE LAYERS
 // ----------------------------------------------------------------------------------------------------------------
-#reference "../../../respot/layers/DOSBox_5150/5153.params"
+#reference "../../../respot/layers/IBM_5150/5153_night.params"
 
 // SHADER OVERRIDES | Place *.params references to Guest derivatives here. 
 // (Make sure you are using ADV__GDV, STD__GDV, or POTATO__GDV base presets for variations on the Guest shader.)

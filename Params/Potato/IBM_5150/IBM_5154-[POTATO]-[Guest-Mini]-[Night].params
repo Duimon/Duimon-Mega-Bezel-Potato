@@ -23,22 +23,21 @@
 // 03. POTATO__GDV-MINI                 07. POTATO-SUPER-XBR__GDV-NTSC
 // 04. POTATO__GDV-MINI-NTSC  
 
-
 // DEVICE | Screen/Monitor/CRT/TV settings
 // ----------------------------------------------------------------------------------------------------------------
 
 // DEVICE :: BASE
-#reference "../../../respot/bezel/GCE_Vectrex/GCE_Vectrex.params"
+#reference "../../../respot/bezel/IBM_5150/5150.params"
 
 // DEVICE :: SCALING
-#reference "../../../respot/scale/GCE_Vectrex/GCE_Vectrex.params"
+#reference "../../../respot/scale/IBM_5150/5150.params"
 
 // DEVICE :: CRT
-#reference "../../../respot/crt/GCE_Vectrex/GCE_Vectrex.params"
+#reference "../../../respot/crt/IBM_5150/5153.params"
 
 // IMAGE LAYERS
 // ----------------------------------------------------------------------------------------------------------------
-#reference "../../../respot/layers/GCE_Vectrex/Solar Quest (World)_night.params"
+#reference "../../../respot/layers/IBM_5150/5154_night.params"
 
 // SHADER OVERRIDES | Place *.params references to Guest derivatives here. 
 // (Make sure you are using ADV__GDV, STD__GDV, or POTATO__GDV base presets for variations on the Guest shader.)
