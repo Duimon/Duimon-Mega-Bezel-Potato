@@ -8,4 +8,5 @@
 
 // IMAGE PATHS
 // ----------------------------------------------------------------------------------------------------------------
+BackgroundImage = "../../../Graphics/_Potato/Bandai_WonderSwan/WS_Vertical.png"
 BackgroundVertImage = "../../../Graphics/_Potato/Bandai_WonderSwan/WS_Vertical.png"

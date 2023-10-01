@@ -8,4 +8,5 @@
 
 // IMAGE PATHS
 // ----------------------------------------------------------------------------------------------------------------
+BackgroundImage = "../../../Graphics/_Potato/Atari_Lynx/Lynx_Vertical_Night.png"
 BackgroundVertImage = "../../../Graphics/_Potato/Atari_Lynx/Lynx_Vertical_Night.png"

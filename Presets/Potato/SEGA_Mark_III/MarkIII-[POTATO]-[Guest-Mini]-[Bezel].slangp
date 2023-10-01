@@ -38,6 +38,11 @@
 // ----------------------------------------------------------------------------------------------------------------
 #reference "../../../respot/layers/SEGA_Mark_III/bezel.params"
 
+// SHADER OVERRIDES | Place *.params references to Guest derivatives here. 
+// (Make sure you are using ADV__GDV, STD__GDV, or POTATO__GDV base presets for variations on the Guest shader.)
+// Two examples were kindly provided by guest.r. ;-)
+// ----------------------------------------------------------------------------------------------------------------
+
 // SHADER :: OVERRIDES
 //#reference "../../../respot/overrides_shader/guest_custom_aperture.params"
 //#reference "../../../respot/overrides_shader/guest_custom_slotmask.params"

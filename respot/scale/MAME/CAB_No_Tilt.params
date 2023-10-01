@@ -2,11 +2,11 @@
 // SOME RIGHTS RESERVED - RELEASED UNDER CC BY NC ND LICENSE https://creativecommons.org/licenses/by-nc-nd/4.0/deed
 // ----------------------------------------------------------------------------------------------------------------
 
-// IMAGE LAYER PARAMETERS :: POTATO
-// Parameters specific to the image layers, potato preset have only one layer.
+// SCALE PARAMETERS
+// Parameters specific to the scale, aspect, and position of the screen.
 // ----------------------------------------------------------------------------------------------------------------
 
-// IMAGE PATHS
-// ----------------------------------------------------------------------------------------------------------------
-BackgroundImage = "../../../Graphics/_Potato/MAME/MAME.png"
-BackgroundVertImage = "../../../Graphics/_Potato/MAME/MAME_Vertical.png"
+HSM_ASPECT_RATIO_MODE = "2.000000"
+HSM_ASPECT_RATIO_ORIENTATION = "0.000000"
+HSM_NON_INTEGER_SCALE = "65.770264"
+HSM_SCREEN_POSITION_Y = "-26.000000"

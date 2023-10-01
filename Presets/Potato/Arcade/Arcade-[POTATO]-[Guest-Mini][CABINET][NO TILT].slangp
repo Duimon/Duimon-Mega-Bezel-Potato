@@ -36,7 +36,7 @@
 
 // IMAGE LAYERS
 // ----------------------------------------------------------------------------------------------------------------
-#reference "../../../respot/layers/Arcade/CAB_No_Tilt.params"
+#reference "../../../respot/layers/Arcade/CAB_No_Tilt_$CORE-ASPECT-ORIENT$.params"
 
 // SHADER OVERRIDES | Place *.params references to Guest derivatives here. 
 // (Make sure you are using ADV__GDV, STD__GDV, or POTATO__GDV base presets for variations on the Guest shader.)

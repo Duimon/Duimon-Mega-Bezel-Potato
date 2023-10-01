@@ -8,5 +8,5 @@
 
 // IMAGE PATHS
 // ----------------------------------------------------------------------------------------------------------------
-BackgroundImage = "../../../Graphics/_Potato/TV/TV7_Wood.png"
-BackgroundVertImage = "../../../Graphics/_Potato/TV/TV7_Wood_Vertical.png"
+BackgroundImage = "../../../Graphics/_Potato/TV/TV7.png"
+BackgroundVertImage = "../../../Graphics/_Potato/TV/TV7.png"

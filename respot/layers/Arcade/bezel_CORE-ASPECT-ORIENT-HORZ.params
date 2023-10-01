@@ -9,4 +9,4 @@
 // IMAGE PATHS
 // ----------------------------------------------------------------------------------------------------------------
 BackgroundImage = "../../../Graphics/_Potato/Arcade/Arcade.png"
-BackgroundVertImage = "../../../Graphics/_Potato/Arcade/Arcade_Vertical.png"
+BackgroundVertImage = "../../../Graphics/_Potato/Arcade/Arcade.png"
