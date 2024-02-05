@@ -39,7 +39,7 @@
 
 // IMAGE LAYERS
 // ----------------------------------------------------------------------------------------------------------------
-#reference "../../../respot/layers/Nintendo_NDS/Nintendo_NDS_Hybrid_Night.params"
+#reference "../../../respot/layers/Nintendo_NDS/Nintendo_NDS_Hybrid_night.params"
 
 // SHADER OVERRIDES | Place *.params references to Guest derivatives here. 
 // (Make sure you are using ADV__GDV, STD__GDV, or POTATO__GDV base presets for variations on the Guest shader.)

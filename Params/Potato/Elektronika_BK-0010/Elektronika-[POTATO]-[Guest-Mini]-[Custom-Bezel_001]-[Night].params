@@ -37,31 +37,7 @@
 
 // IMAGE LAYERS
 // ----------------------------------------------------------------------------------------------------------------
-#reference "../../../respot/layers/Elektronika_BK-0010/custom1.params"
-
-// HSV :: Hue, Saturation, and Value parameters
-// ----------------------------------------------------------------------------------------------------------------
-
-// GRAPHICS OVERRIDES |// GRAPHICS OVERRIDES | Overrides for Image layers, scaling, etc 
-// that are not related to Guest's shader. (Three examples are provided)
-// These are restricted to [Bezel] versions and the following reference should be left commented out for others.
-// ----------------------------------------------------------------------------------------------------------------
-
-// GRAPHICS :: OVERRIDES
-//#reference "../../../respot/overrides/batocera.params"
-//#reference "../../../respot/overrides/batocera_nocurve.params"
-//#reference "../../../respot/overrides/batocera_hud.params"
-
-// GLOBAL GRAPHICS :: OVERRIDES
-// The user can edit the "user.params" to globally change the presets.
-// To use community params that require another base preset, change the global base reference to match.
-// Examples are included in the params file and commented out.
-// These are also restricted to [Bezel] versions and the following reference should be left commented out for others.
-//#reference "../../../zzz_global_params_pot/Graphics/user.params"
-
-// The following is restricted to the [Custom-Bezel_002] presets.
-// One example is included in the params file and commented out.
-//#reference "../../../zzz_global_params_pot/Graphics/user2_night.params"
+#reference "../../../respot/layers/Elektronika_BK-0010/custom1_night.params"
 
 // SHADER OVERRIDES | Place *.params references to Guest derivatives here. 
 // (Make sure you are using ADV__GDV, STD__GDV, or POTATO__GDV base presets for variations on the Guest shader.)
