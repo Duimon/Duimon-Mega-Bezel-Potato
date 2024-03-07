@@ -18,13 +18,13 @@
 #reference "../../../respot/bezel/Atari_Lynx/Atari_Lynx.params"
 
 // DEVICE :: SCALING
-#reference "../../../respot/scale/Atari_Lynx/$CORE-REQ-ROT$.params"
+#reference "../../../respot/scale/Atari_Lynx/Atari_Lynx-270.params"
 
 // DEVICE :: CRT
 
 // IMAGE LAYERS
 // ----------------------------------------------------------------------------------------------------------------
-#reference "../../../respot/layers/Atari_Lynx/$CORE-REQ-ROT$_night.params"
+#reference "../../../respot/layers/Atari_Lynx/Atari_Lynx-270_night.params"
 
 // SHADER OVERRIDES | Place *.params references to Guest derivatives here. 
 // (Make sure you are using ADV__GDV, STD__GDV, or POTATO__GDV base presets for variations on the Guest shader.)
