@@ -1,0 +1,54 @@
+// DUIMON MEGA BEZEL GRAPHICS AND PRESETS | https://duimon.github.io/Gallery-Guides/ | duimonmb@gmail.com
+// SOME RIGHTS RESERVED - RELEASED UNDER CC BY NC ND LICENSE https://creativecommons.org/licenses/by-nc-nd/4.0/deed
+// ----------------------------------------------------------------------------------------------------------------
+
+// PRESET START
+// ----------------------------------------------------------------------------------------------------------------
+
+// SHADER :: CONNECTOR | Interface to Mega Bezel Presets folders.
+// Edit the target file in the following reference to globally define the base preset.
+// ----------------------------------------------------------------------------------------------------------------
+
+//#reference "../../../zzz_global_params_pot/Base_Shader/POT_PVM20.slangp"
+
+// SHADER :: CONNECTOR :: LOCAL OVERRIDES | Interface to specific base presets.
+// Comment out the top reference line and uncomment the following reference line to locally define the base preset.
+
+//#reference "../../../zzz_global_params_pot/Local_Shader/POT_03.slangp"
+
+// "POT_03" matches my default "MBZ__5__POTATO__GDV-MINI.slangp".
+// Replace the "03" with any from the following list.
+// 01. POTATO__EASYMODE                 05. POTATO__GDV-NTSC
+// 02. POTATO__GDV                      06. POTATO-SUPER-XBR__GDV
+// 03. POTATO__GDV-MINI                 07. POTATO-SUPER-XBR__GDV-NTSC
+// 04. POTATO__GDV-MINI-NTSC            08. POTATO__PASSTHROUGH   
+
+// DEVICE | Screen/Monitor/CRT/TV settings
+// ----------------------------------------------------------------------------------------------------------------
+
+// DEVICE :: BASE
+#reference "../../../respot/bezel/pvm20.params"
+
+// DEVICE :: SCALING
+#reference "../../../respot/scale/pvm20.params"
+
+// DEVICE :: CRT
+
+// IMAGE LAYERS
+// ----------------------------------------------------------------------------------------------------------------
+#reference "../../../respot/layers/SEGA_32X/pvm20_night.params"
+
+// SHADER OVERRIDES | Place *.params references to Guest derivatives here. 
+// (Make sure you are using ADV__GDV, STD__GDV, or POTATO__GDV base presets for variations on the Guest shader.)
+// Two examples were kindly provided by guest.r. ;-)
+// ----------------------------------------------------------------------------------------------------------------
+
+// SHADER :: OVERRIDES
+//#reference "../../../respot/overrides_shader/guest_custom_aperture.params"
+//#reference "../../../respot/overrides_shader/guest_custom_slotmask.params"
+
+// GLOBAL SHADER :: OVERRIDES
+#reference "../../../zzz_global_params_pot/Shader/POT/user_PVM20.params"
+
+// PRESET END
+// ----------------------------------------------------------------------------------------------------------------

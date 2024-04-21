@@ -1,0 +1,47 @@
+// DUIMON MEGA BEZEL GRAPHICS AND PRESETS | https://duimon.github.io/Gallery-Guides/ | duimonmb@gmail.com
+// SOME RIGHTS RESERVED - RELEASED UNDER CC BY NC ND LICENSE https://creativecommons.org/licenses/by-nc-nd/4.0/deed
+// ----------------------------------------------------------------------------------------------------------------
+
+// PRESET START
+// ----------------------------------------------------------------------------------------------------------------
+
+// SHADER :: CONNECTOR | Interface to Mega Bezel Presets folders
+// ----------------------------------------------------------------------------------------------------------------
+
+//#reference "../../../zzz_global_params_pot/Base_Shader/POT_LCD.slangp"
+//#reference "../../../zzz_global_params_pot/Base_Shader/POT_LCD_PASSTHROUGH.slangp"
+
+// SHADER :: CONNECTOR :: PASSTHROUGH OVERRIDE
+// Follow the top reference and edit the target file to globally override the base preset.
+// Change the active reference to locally override the base preset.
+
+
+// DEVICE | Screen/Monitor/CRT/TV settings
+// ----------------------------------------------------------------------------------------------------------------
+
+// DEVICE :: BASE
+#reference "../../../respot/bezel/Atari_Lynx/Atari_Lynx.params"
+
+// DEVICE :: SCALING
+#reference "../../../respot/scale/Atari_Lynx/Atari_Lynx-90.params"
+
+// DEVICE :: CRT
+
+// IMAGE LAYERS
+// ----------------------------------------------------------------------------------------------------------------
+#reference "../../../respot/layers/Atari_Lynx/Atari_Lynx-90.params"
+
+// SHADER OVERRIDES | Place *.params references to Guest derivatives here. 
+// (Make sure you are using ADV__GDV, STD__GDV, or POTATO__GDV base presets for variations on the Guest shader.)
+// Two examples were kindly provided by guest.r. ;-)
+// ----------------------------------------------------------------------------------------------------------------
+
+// SHADER :: OVERRIDES
+//#reference "../../../respot/overrides_shader/guest_custom_aperture.params"
+//#reference "../../../respot/overrides_shader/guest_custom_slotmask.params"
+
+// GLOBAL SHADER :: OVERRIDES
+//#reference "../../../zzz_global_params_pot/Shader/POT/user.params"
+
+// PRESET END
+// ----------------------------------------------------------------------------------------------------------------
