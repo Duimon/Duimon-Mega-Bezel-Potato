@@ -23,7 +23,7 @@
 #reference "../../../respot/bezel/Atari_Lynx/Atari_Lynx.params"
 
 // DEVICE :: SCALING
-#reference "../../../respot/scale/Atari_Lynx/Atari_Lynx.params"
+#reference "../../../respot/scale/Atari_Lynx/Atari_Lynx_Alt.params"
 
 // DEVICE :: CRT
 
